@@ -32,8 +32,9 @@ docker run -e NAME=sumanth hello-captain
 ```dockerfile
 FROM alpine:latest          # start from a tiny Linux image
 CMD echo "Hello, ${NAME:-Captain}!"  # print greeting; use NAME or default
+
+[Project URL](https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain)
 ```
 
 That’s it, your first containerized “Hello ${your-name}”.
 ```
-[Project URL](https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain)
