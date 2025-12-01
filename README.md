@@ -1,5 +1,4 @@
 
-```markdown
 # docker-hello-captain
 
 A **beginner-friendly** demo repo that shows how I built my **first Docker image** and made it say hello.
@@ -14,7 +13,7 @@ A **beginner-friendly** demo repo that shows how I built my **first Docker image
 ## Quick start
 ```bash
 # 1. Clone (or download) this repo
-git clone https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain.git
+git clone https://github.com/Snikitha-V/docker-hello-captain.git
 cd docker-hello-captain
 
 # 2. Build the image
@@ -35,5 +34,5 @@ FROM alpine:latest          # start from a tiny Linux image
 CMD echo "Hello, ${NAME:-Captain}!"  # print greeting; use NAME or default
 ```
 
-That’s it—your first containerized “Hello World”.
+That’s it—your first containerized “Hello your-name”.
 ```
