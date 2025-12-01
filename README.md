@@ -2,6 +2,7 @@
 # docker-hello-captain
 
 A **beginner-friendly** demo repo that shows how I built my **first Docker image** and made it say hello.
+[Project URL](https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain)
 
 ## What I learnt here
 1. Base image (`alpine:latest`) – the smallest Linux distro to start from.  
@@ -35,7 +36,6 @@ CMD echo "Hello, ${NAME:-Captain}!"  # print greeting; use NAME or default
 
 
 ```
-[Project URL](https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain)
 
 That’s it, your first containerized “Hello ${your-name}”.
 ```
