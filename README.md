@@ -2,7 +2,7 @@
 # docker-hello-captain
 
 A **beginner-friendly** demo repo that shows how I built my **first Docker image** and made it say hello.
-[Project URL](https://github.com/YOUR_GITHUB_USERNAME/docker-hello-captain)
+[Project URL](https://github.com/Snikitha-V//docker-hello-captain)
 
 ## What I learnt here
 1. Base image (`alpine:latest`) – the smallest Linux distro to start from.  
