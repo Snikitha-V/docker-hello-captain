@@ -34,5 +34,5 @@ FROM alpine:latest          # start from a tiny Linux image
 CMD echo "Hello, ${NAME:-Captain}!"  # print greeting; use NAME or default
 ```
 
-That’s it—your first containerized “Hello your-name”.
+That’s it, your first containerized “Hello ${your-name}”.
 ```
